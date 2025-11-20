@@ -2,8 +2,8 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Name: " + "Bhushan D Malviya");
-         System.out.println("Address: " + "IITL Nimbus 2 ,Greater Noida ");
+        System.out.println("Name: " + "Kushagra Verma");
+         System.out.println("Address: " + "Palm Hostel,Knowledge Park 2 ");
         
 
        
